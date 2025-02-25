@@ -8,7 +8,7 @@ Nhóm STT 12
 
 Đề tài: Web bán điện thoại
 
-Nhóm Trường 201A010113 Nguyễn Trung Trường
+Nhóm Trưởng 201A010113 Nguyễn Trung Trường
 
 211A290011 Võ Nhật Quang
 
