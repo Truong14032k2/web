@@ -3,7 +3,7 @@ LHP: 242INT46801
 GV: Dương Thái Bảo
 Nhóm STT 12
 Đề tài: Web bán điện thoại
-NT 201A010113 Nguyễn Trung Trường
-211A290011 Võ Nhật Quang
+Nhóm Trường 201A010113 Nguyễn Trung Trường -
+211A290011 Võ Nhật Quang -
 201A010053 Nguyễn Đức Tuấn
 link web demo: https://www.youtube.com/
