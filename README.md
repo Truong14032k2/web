@@ -14,4 +14,6 @@ Nhóm Trưởng 201A010113 Nguyễn Trung Trường
 
 201A010053 Nguyễn Đức Tuấn
 
-link web demo: https://www.youtube.com/
+link web demo: https://www.youtube.com/watch?v=3AKYyl6MwUY
+
+link kênh đề phòng lỗi link: https://www.youtube.com/@truongnguyentrung5251
